@@ -38,7 +38,9 @@ body{
 .nav a:focus:after {
   width: 100%;
 }
-
+.rounded-circle{
+  border-radius: 25px;
+}
 #wrapper {
   height: 90vh;
   background-image: linear-gradient(rgba(0, 0, 0, 0.137), rgba(0, 0, 0, 0.555)), url(../Image/Header.png);
